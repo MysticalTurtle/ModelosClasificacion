@@ -4,7 +4,7 @@ from despliegue import modelo_decision_tree, modelo_svc
 
 
 app = MultiApp()
-st.markdown("#  Inteligencia de Negocios - Equipo A ")
+st.markdown("#  Inteligencia de Negocios - Equipo C - Ciencia de Datos ")
 
 
 # Add all your application here
